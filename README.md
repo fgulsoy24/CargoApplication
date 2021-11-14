@@ -1,5 +1,5 @@
 # CargoApplication
-The cargo application provides cargo price tool backend services
+The Cargo Application provides cargo price tool backend services
 ## The technologies are used:
 - Framework: .net core 3.1
 - Database: SQL Server.
