@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/CargoApplicationTest/bin/Debug/netcoreapp3.1
+/CargoApplicationTest/obj/Debug/netcoreapp3.1
+/CargoApplicationTest/obj
